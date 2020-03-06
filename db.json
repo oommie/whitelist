@@ -179,21 +179,6 @@
         "machineId": "",
         "mobile": "",
         "remark": null
-    },
-    {
-        "createdBy": "system",
-        "createdDate": "2019-11-28T00:00:00Z",
-        "lastModifiedBy": null,
-        "lastModifiedDate": null,
-        "id": 140,
-        "transactionId": "FZHVSvBb7nWEkmWO04fw",
-        "outBalance": 4.0,
-        "tmnId": "tmn.10001504635",
-        "deletedAt": "2019-11-28T15:49:39Z",
-        "merchantId": "",
-        "machineId": "",
-        "mobile": "",
-        "remark": null
     }
     
 ]
