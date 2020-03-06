@@ -1,0 +1,26 @@
+[
+  {
+    "createdBy": null,
+    "createdDate": null,
+    "lastModifiedBy": null,
+    "lastModifiedDate": null,
+    "id": 1,
+    "tmnId": "tmn.000001",
+    "mobile": "0875446772",
+    "remark": "oomtest",
+    "merchantId": "1010",
+    "deletedAt": null
+  },
+  {
+    "createdBy": "admin",
+    "createdDate": "2020-03-02T00:00:00Z",
+    "lastModifiedBy": "admin",
+    "lastModifiedDate": "2020-03-02T09:07:14Z",
+    "id": 2,
+    "tmnId": null,
+    "mobile": "0873776660",
+    "remark": "created by oommie ja",
+    "merchantId": null,
+    "deletedAt": null
+  }
+]
